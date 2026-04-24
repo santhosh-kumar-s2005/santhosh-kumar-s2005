@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Santhosh Kumar S 👋
 
-<!--
-**santhosh-kumar-s2005/santhosh-kumar-s2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Student | Java Backend Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+Java | Spring Boot | SQL | React | Next.js | Git | DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Smart TN Grievance System
+- AI Interview Coach
+- Employee Management System (Spring Boot)
+- LeetCode Solutions
+
+## Current Focus
+Building scalable backend systems with Java + Spring Boot
+
+## Contact
+LinkedIn | Email | Portfolio
