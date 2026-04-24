@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+Developer;Building+Clean+Backends+%26+Cool+UIs;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+%7C+React;AI%2FML+%7C+System+Design+%7C+DSA;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <!--
@@ -29,8 +29,8 @@
 
 <!-- Interactive-style animated header (GIF). Click = refresh the render for a “reactive” feel. -->
 <p align="center">
-  <a href="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Touch%20%2F%20Hover%20effects%20aren%E2%80%99t%20supported%20on%20GitHub%20README%20%E2%80%94%20so%20here%E2%80%99s%20a%20smooth%20animated%20banner%20instead&descAlignY=75&descSize=14">
-    <img alt="Welcome banner" src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20DSA&descAlignY=75&descSize=18" />
+  <a href="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AI%2FML&descAlignY=70">
+    <img alt="Welcome banner" src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AI%2FML&descAlignY=70" />
   </a>
 </p>
 
@@ -81,7 +81,11 @@ public class SanthoshKumar {
 ## 📊 GitHub Analytics (animated)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -90,6 +94,26 @@ public class SanthoshKumar {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D1117&color=00C6FF&line=0072FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=algolia&no-frame=true&margin-w=12&margin-h=12" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🧠 LeetCode Analytics
+
+<p align="center">
+  <a href="https://leetcode.com/u/FC16c6LGHm/">
+    <img src="https://leetcard.jacoblin.cool/FC16c6LGHm?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/FC16c6LGHm/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=FC16c6LGHm&theme=dark" alt="LeetCode stats (alt)" />
+  </a>
 </p>
 
 ---
