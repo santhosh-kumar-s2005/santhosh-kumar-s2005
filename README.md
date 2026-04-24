@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate developer with expertise in building scalable backend systems and full-stack applications. I specialize in Java and Spring Boot ecosystem with a strong foundation in DSA and modern frontend technologies.
+Passionate developer with expertise in building scalable backend systems and full-stack applications. I specialize in Java and Spring Boot ecosystem with a strong foundation in DSA and modern front-end technologies.
 
 - 🎓 **Currently:** B.Tech IT Student
 - 💼 **Focus:** Building robust backend systems with Java + Spring Boot
@@ -97,10 +97,10 @@ Concepts:    DSA • OOP • REST APIs • JWT Auth
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kumar-s-524363369/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-s2005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santy1nova2@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/FC16c6LGHm/)
 
 </div>
 
