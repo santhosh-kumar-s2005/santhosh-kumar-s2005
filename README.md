@@ -1,6 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+Developer;React+%7C+AI%2FML+%7C+DSA+Explorer;Open+to+Internships+%26+Collaborations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+Developer;Building+Clean+Backends+%26+Cool+UIs;Always+Learning+%7C+Always+Building" />
 </h1>
+
+<!--
+  NOTE (GitHub Profile README limitations):
+  GitHub README pages do NOT allow custom JavaScript, so true “on mouse hover” animations
+  can’t be implemented directly.
+
+  Instead, this header uses an *interactive* feel with a hover-like GIF + animated capsule banner.
+  The GIF animates continuously (looks like hover), and the banner uses a dynamic render.
+-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-kumar-s-524363369/">
@@ -18,8 +27,12 @@
   <img src="https://komarev.com/ghpvc/?username=santhosh-kumar-s2005&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=170&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+<!-- Interactive-style animated header (GIF). Click = refresh the render for a “reactive” feel. -->
+<p align="center">
+  <a href="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Touch%20%2F%20Hover%20effects%20aren%E2%80%99t%20supported%20on%20GitHub%20README%20%E2%80%94%20so%20here%E2%80%99s%20a%20smooth%20animated%20banner%20instead&descAlignY=75&descSize=14">
+    <img alt="Welcome banner" src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20DSA&descAlignY=75&descSize=18" />
+  </a>
+</p>
 
 ---
 
@@ -100,4 +113,4 @@ public class SanthoshKumar {
 </p>
 
 <!-- Animated footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072FF,100:00C6FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072FF,100:00C6FF&height=120&section=footer&animation=twinkling" />
