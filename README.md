@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+%7C+React;AI%2FML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+Developer;React+%7C+AI%2FML+%7C+DSA+Explorer;Open+to+Internships+%26+Collaborations" />
 </h1>
 
 <p align="center">
@@ -56,7 +56,7 @@ public class SanthoshKumar {
 
 ## 🏆 Pinned Projects
 
-> Replace links below if your pinned repos are different.
+> If you find any of my projects interesting, feel free to explore them, use them as a reference, and give feedback — contributions and suggestions are always welcome.
 
 - **Smart-TN-Grievance** — https://github.com/santhosh-kumar-s2005/Smart-TN-Grievance
 - **health-assistant-app** — https://github.com/santhosh-kumar-s2005/health-assistant-app
@@ -82,6 +82,10 @@ public class SanthoshKumar {
 ---
 
 ## 🤝 Connect
+
+<p align="center">
+  <b>Let’s connect!</b> If you’d like to collaborate, talk about internships, or just say hi, reach out anytime at <a href="mailto:santy1nova2@gmail.com">santy1nova2@gmail.com</a>.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-kumar-s-524363369/">
