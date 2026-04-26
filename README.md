@@ -62,12 +62,7 @@ public class SanthoshKumar {
 
 ## 〈 Tech Arsenal 〉
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,mysql,git,github,vscode,linux&theme=dark&perline=5" alt="Tech stack icons" />
-
-<br/><br/>
-
-<!-- ✦ ANIMATED HORIZONTAL TECH SCROLL ✦ -->
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,react,html,css,mysql,git,vscode&theme=dark" alt="Animated tech icons" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css&theme=dark&perline=6" alt="Tech stack icons" />
 
 </div>
 
@@ -77,15 +72,14 @@ public class SanthoshKumar {
 
 <div align="center">
 
-## 〈 GitHub Activity Snake 〉
+## 〈 GitHub Contribution Snake 〉
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![GitHub contribution snake animation](https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake-dark.svg)
 
-> ⚙️ *To enable this: [follow the snake setup guide →](https://github.com/Platane/snk)*
+**⚙️ Setup Instructions:**
+1. Create a `.github/workflows/snake.yml` in your profile repo ([santhosh-kumar-s2005/santhosh-kumar-s2005](https://github.com/santhosh-kumar-s2005/santhosh-kumar-s2005))
+2. Use this workflow config: [Platane/snk GitHub Actions](https://github.com/Platane/snk#github-actions)
+3. Commit and the snake will start animating your contributions!
 
 </div>
 
@@ -131,11 +125,11 @@ public class SanthoshKumar {
 
 ## 〈 LeetCode Progress 〉
 
-<img src="https://leetcard.jacoblin.cool/FC16c6LGHm?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode stats card" />
+### 📊 [View Full Profile](https://leetcode.com/u/FC16c6LGHm/)
 
-<br/>
-
-<img src="https://leetcode-stats-six.vercel.app/api?username=FC16c6LGHm&theme=dark" alt="LeetCode stats alternate" />
+**🎯 LeetCode Stats**
+- **Username:** FC16c6LGHm
+- **Profile Link:** https://leetcode.com/u/FC16c6LGHm/
 
 </div>
 
