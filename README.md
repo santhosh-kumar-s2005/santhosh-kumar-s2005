@@ -5,10 +5,10 @@
 <div align="center">
 
 <!-- ✦ ANIMATED HERO BANNER ✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
 
 <!-- ✦ TYPEWRITER BANNER ✦ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Java+%2F+Spring+Boot+Developer;Building+REST+APIs+%26+Microservices;DSA+%7C+System+Design+%7C+AI%2FML" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Java+%2F+Spring+Boot+Developer;Microservices+%7C+System+Design+%7C+AI%2FML;Building+Scalable+Backend+Systems" alt="Typing intro" />
 
 <!-- ✦ BADGES / SOCIAL LINKS ✦ -->
 <br/>
@@ -99,17 +99,17 @@ If the image is not showing:
 
 ## 〈 GitHub Analytics 〉
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=C4B5FD&text_color=E2E8F0" />
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=C4B5FD&text_color=E2E8F0" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=santhosh-kumar-s2005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=2D1B69&hide_border=true" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com?user=santhosh-kumar-s2005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=2D1B69&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -121,8 +121,13 @@ If the image is not showing:
 
 ## 〈 Achievements 〉
 
-<!-- fixed: cleaner theme + responsive layout (no ugly wrapping) -->
-<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=14&margin-h=14" alt="GitHub Trophies" />
+<!--
+Fix:
+- Use supported query params for github-profile-trophy.
+- `row` is not a supported parameter; use `column` only.
+- Set `rank=-?` values to hide unwanted trophies; keep it clean.
+-->
+<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=14&margin-h=14" alt="GitHub Trophies" />
 
 </div>
 
@@ -204,4 +209,4 @@ If the image is not showing:
 </div>
 
 <!-- ✦ ANIMATED FOOTER ✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn" alt="Footer" />
