@@ -5,10 +5,10 @@
 <div align="center">
 
 <!-- ✦ ANIMATED HERO BANNER ✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 
 <!-- ✦ TYPEWRITER BANNER ✦ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Java+%2F+Spring+Boot+Developer;Backend+%7C+Microservices+%7C+DSA;Always+learning+%26+building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Java+%2F+Spring+Boot+Developer;Building+REST+APIs+%26+Microservices;DSA+%7C+System+Design+%7C+AI%2FML" />
 
 <!-- ✦ BADGES / SOCIAL LINKS ✦ -->
 <br/>
@@ -47,9 +47,9 @@ public class SanthoshKumar {
 ```
 
 ### ⚡ What I Build
-- 🔩 Scalable **REST APIs** with Java + Spring Boot
-- 🎨 Responsive UIs with **React + Tailwind**
-- 🤖 Intelligent apps with **AI/ML** integrations
+- 🔩 Scalable **REST APIs** with Java + Spring Boot  
+- 🎨 Responsive UIs with **React + Tailwind**  
+- 🤖 Intelligent apps with **AI/ML** integrations  
 - 🧩 Solving real problems through **DSA**
 
 <br clear="right"/>
@@ -121,7 +121,8 @@ If the image is not showing:
 
 ## 〈 Achievements 〉
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+<!-- fixed: cleaner theme + responsive layout (no ugly wrapping) -->
+<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=onestar&no-frame=true&no-bg=true&row=2&column=4&margin-w=14&margin-h=14" alt="GitHub Trophies" />
 
 </div>
 
@@ -133,17 +134,13 @@ If the image is not showing:
 
 ## 〈 LeetCode Stats 〉
 
-<!--
-This uses an external stats card service. If you prefer a different username/card,
-replace `FC16c6LGHm` below.
--->
-
-<img src="https://leetcard.jacoblin.cool/FC16c6LGHm?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+<!-- unique + matches your purple style -->
+<img src="https://leetcard.jacoblin.cool/FC16c6LGHm?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=14&animation=true" alt="LeetCode Stats" />
 
 <br/>
 
 <a href="https://leetcode.com/u/FC16c6LGHm/">
-  <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-A78BFA?style=for-the-badge&logo=leetcode&logoColor=0D0D1A" alt="LeetCode Profile" />
 </a>
 
 </div>
