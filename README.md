@@ -74,12 +74,21 @@ public class SanthoshKumar {
 
 ## 〈 GitHub Contribution Snake 〉
 
-![GitHub contribution snake animation](https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake-dark.svg)
+![GitHub contribution snake animation](https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/dist/github-contribution-grid-snake-dark.svg)
 
-**⚙️ Setup Instructions:**
-1. Create a `.github/workflows/snake.yml` in your profile repo ([santhosh-kumar-s2005/santhosh-kumar-s2005](https://github.com/santhosh-kumar-s2005/santhosh-kumar-s2005))
-2. Use this workflow config: [Platane/snk GitHub Actions](https://github.com/Platane/snk#github-actions)
-3. Commit and the snake will start animating your contributions!
+### 🐍 Snake Animation Setup
+
+**⚡ Quick Setup (2 minutes):**
+
+1. Open: https://github.com/santhosh-kumar-s2005/santhosh-kumar-s2005
+2. Click **"Add file"** → **"Create new file"**
+3. Type filename: `.github/workflows/snake.yml`
+4. Copy workflow code from [SNAKE_SETUP_GUIDE.md](./SNAKE_SETUP_GUIDE.md)
+5. Commit the file
+6. Go to **"Actions"** tab → Enable if prompted
+7. Wait 1-2 minutes for generation ✨
+
+> 📝 **Full guide with troubleshooting:** See [SNAKE_SETUP_GUIDE.md](./SNAKE_SETUP_GUIDE.md)
 
 </div>
 
@@ -125,11 +134,40 @@ public class SanthoshKumar {
 
 ## 〈 LeetCode Progress 〉
 
-### 📊 [View Full Profile](https://leetcode.com/u/FC16c6LGHm/)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="80" alt="LeetCode" />
+      <br/>
+      <b>LeetCode Profile</b>
+      <br/>
+      <a href="https://leetcode.com/u/FC16c6LGHm/">
+        <img src="https://img.shields.io/badge/View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+    </td>
+    <td align="center">
+      <b>Username</b>
+      <br/>
+      <code>FC16c6LGHm</code>
+      <br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Level-Advanced-blueviolet?style=flat-square" />
+    </td>
+    <td align="center">
+      <b>Contributions</b>
+      <br/>
+      Check your profile for:
+      <br/>
+      • Problems Solved
+      <br/>
+      • Acceptance Rate
+      <br/>
+      • Skills & Badges
+    </td>
+  </tr>
+</table>
 
-**🎯 LeetCode Stats**
-- **Username:** FC16c6LGHm
-- **Profile Link:** https://leetcode.com/u/FC16c6LGHm/
+> 💡 Visit [LeetCode Profile](https://leetcode.com/u/FC16c6LGHm/) to see detailed stats, heatmap, and solved problems
 
 </div>
 
