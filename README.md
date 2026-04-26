@@ -1,140 +1,201 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=980&lines=Hey%2C+I%27m+Santhosh+Kumar+S;Java+%7C+Spring+Boot+%7C+React;AI%2FML+%7C+System+Design+%7C+DSA;Welcome+to+my+GitHub+Profile!" />
-</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--           SANTHOSH KUMAR S — GitHub Profile README         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--
-  NOTE (GitHub Profile README limitations):
-  GitHub README pages do NOT allow custom JavaScript, so true “on mouse hover” animations
-  can’t be implemented directly.
+<div align="center">
 
-  Instead, this header uses an *interactive* feel with a hover-like GIF + animated capsule banner.
-  The GIF animates continuously (looks like hover), and the banner uses a dynamic render.
--->
+<!-- ✦ ANIMATED HERO BANNER ✦ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20AI%2FML&descSize=20&descAlignY=62&descAlign=50" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-kumar-s-524363369/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:santy1nova2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/FC16c6LGHm/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/santhosh-kumar-s2005?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=santhosh-kumar-s2005&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="Profile views" />
-</p>
+<!-- ✦ TYPEWRITER BANNER ✦ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9A%80+Building+products+that+matter;%E2%9C%A8+Java+%7C+Spring+Boot+%7C+React+Developer;%F0%9F%A7%A0+AI%2FML+Explorer+%26+DSA+Practitioner;%F0%9F%8C%B1+Open+to+Internships+%26+Collaborations" alt="Typing animation" />
 
-<!-- Interactive-style animated header (GIF). Click = refresh the render for a “reactive” feel. -->
-<p align="center">
-  <a href="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AI%2FML&descAlignY=70">
-    <img alt="Welcome banner" src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=190&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AI%2FML&descAlignY=70" />
-  </a>
-</p>
+<!-- ✦ BADGES / SOCIAL LINKS ✦ -->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kumar-s-524363369/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santy1nova2@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FC16c6LGHm/)
+[![GitHub](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-s2005?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=santhosh-kumar-s2005&label=Profile+Views&color=A78BFA&style=for-the-badge)](https://github.com/santhosh-kumar-s2005)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ✦ ABOUT ME — SPLIT LAYOUT ✦ -->
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation" />
+
+## 〈 About Me 〉
 
 ```java
 public class SanthoshKumar {
-    String role = "Java / Spring Boot Developer";
-    String[] interests = {"React", "AI/ML", "System Design", "DSA"};
-    String[] databases = {"SQL", "MySQL"};
-    String status = "Open to internships & collaborations";
+
+    🎓 String university   = "B.E Computer Science";
+    💼 String role         = "Java / Spring Boot Developer";
+    🌱 String[] learning   = {"Microservices", "AI/ML", "System Design"};
+    🛠️ String[] stack      = {"Java", "Spring Boot", "React", "MySQL"};
+    🎯 String goal         = "Building impactful backend systems";
+    💬 String status       = "Open to internships & collaborations";
+    📍 String location     = "Tamil Nadu, India";
+
+    public String contact() {
+        return "santy1nova2@gmail.com";
+    }
 }
 ```
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+### ⚡ What I Build
+- 🔩 Scalable **REST APIs** with Java + Spring Boot
+- 🎨 Responsive UIs with **React + Tailwind**
+- 🤖 Intelligent apps with **AI/ML** integrations
+- 🧩 Solving real problems through **DSA**
 
-### 🚀 What I do
-- Build backend services with **Java + Spring Boot**
-- Create clean UIs with **React + HTML + CSS**
-- Work on **AI/ML** projects and integrations
-- Practice **DSA / Problem Solving**
-
-<br clear="right" />
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ✦ ANIMATED SKILL ICONS ✦ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,spring,html,css,mysql&theme=dark&perline=6" alt="Tech stack" />
-</p>
+<div align="center">
 
----
+## 〈 Tech Arsenal 〉
 
-## 🏆 Pinned Projects
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,mysql,git,github,vscode,linux&theme=dark&perline=5" alt="Tech stack icons" />
 
-> If you find any of my projects interesting, feel free to explore them, use them as a reference, and give feedback — contributions and suggestions are always welcome.
+<br/><br/>
 
-- **Smart-TN-Grievance** — https://github.com/santhosh-kumar-s2005/Smart-TN-Grievance
-- **health-assistant-app** — https://github.com/santhosh-kumar-s2005/health-assistant-app
-- **leetcode** — https://github.com/santhosh-kumar-s2005/leetcode
-- **(Add your 4th pinned repo here)** — https://github.com/santhosh-kumar-s2005
+<!-- ✦ ANIMATED HORIZONTAL TECH SCROLL ✦ -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,react,html,css,mysql,git,vscode&theme=dark" alt="Animated tech icons" />
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics (animated)
+<!-- ✦ SNAKE CONTRIBUTION ANIMATION ✦ -->
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff" alt="GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" alt="Top languages" />
-</p>
+## 〈 GitHub Activity Snake 〉
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=santhosh-kumar-s2005&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/santhosh-kumar-s2005/santhosh-kumar-s2005/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D1117&color=00C6FF&line=0072FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+> ⚙️ *To enable this: [follow the snake setup guide →](https://github.com/Platane/snk)*
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=algolia&no-frame=true&margin-w=12&margin-h=12" alt="GitHub trophies" />
-</p>
+</div>
 
 ---
 
-## 🧠 LeetCode Analytics
+<!-- ✦ GITHUB STATS — PREMIUM DARK LAYOUT ✦ -->
 
-<p align="center">
-  <a href="https://leetcode.com/u/FC16c6LGHm/">
-    <img src="https://leetcard.jacoblin.cool/FC16c6LGHm?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/FC16c6LGHm/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=FC16c6LGHm&theme=dark" alt="LeetCode stats (alt)" />
-  </a>
-</p>
+## 〈 GitHub Analytics 〉
+
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=C4B5FD&text_color=E2E8F0&border_radius=12" height="180" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&border_radius=12" height="180" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=santhosh-kumar-s2005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&border_radius=12" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=2D1B69&hide_border=true" alt="Contribution graph" />
+
+</div>
 
 ---
 
-## 🤝 Connect
+<!-- ✦ GITHUB TROPHIES ✦ -->
 
-<p align="center">
-  <b>Let’s connect!</b> If you’d like to collaborate, talk about internships, or just say hi, reach out anytime at <a href="mailto:santy1nova2@gmail.com">santy1nova2@gmail.com</a>.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-kumar-s-524363369/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:santy1nova2@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/FC16c6LGHm/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+## 〈 Achievements 〉
 
-<!-- Animated footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072FF,100:00C6FF&height=120&section=footer&animation=twinkling" />
+<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<!-- ✦ LEETCODE ANALYTICS ✦ -->
+
+<div align="center">
+
+## 〈 LeetCode Progress 〉
+
+<img src="https://leetcard.jacoblin.cool/FC16c6LGHm?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode stats card" />
+
+<br/>
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=FC16c6LGHm&theme=dark" alt="LeetCode stats alternate" />
+
+</div>
+
+---
+
+<!-- ✦ PINNED PROJECTS — CARD LAYOUT ✦ -->
+
+<div align="center">
+
+## 〈 Featured Projects 〉
+
+</div>
+
+> 💡 *Tap any project to explore — feedback, stars, and forks are always welcome!*
+
+<div align="center">
+
+[![Smart-TN-Grievance](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=Smart-TN-Grievance&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&icon_color=C4B5FD&border_radius=12)](https://github.com/santhosh-kumar-s2005/Smart-TN-Grievance)
+
+[![health-assistant-app](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=health-assistant-app&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&icon_color=C4B5FD&border_radius=12)](https://github.com/santhosh-kumar-s2005/health-assistant-app)
+
+[![leetcode](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=leetcode&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&icon_color=C4B5FD&border_radius=12)](https://github.com/santhosh-kumar-s2005/leetcode)
+
+</div>
+
+---
+
+<!-- ✦ ANIMATED QUOTE ✦ -->
+
+<div align="center">
+
+## 〈 Dev Philosophy 〉
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Dev quote" />
+
+</div>
+
+---
+
+<!-- ✦ CONNECT SECTION ✦ -->
+
+<div align="center">
+
+## 〈 Let's Connect 〉
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" alt="Handshake gif" />
+
+**Open to internships, collaborations, and interesting conversations!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kumar-s-524363369/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santy1nova2@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Let's_Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FC16c6LGHm/)
+
+<br/>
+
+*✨ If you like what you see — drop a ⭐ on a repo, it means a lot!*
+
+</div>
+
+<!-- ✦ ANIMATED FOOTER ✦ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn" />
