@@ -5,10 +5,10 @@
 <div align="center">
 
 <!-- ✦ ANIMATED HERO BANNER ✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAli[...] 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=60&fontColor=ffffff&fontAli[...]
 
 <!-- ✦ TYPEWRITER BANNER ✦ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Java+[...] 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Java+[...]
 
 <!-- ✦ BADGES / SOCIAL LINKS ✦ -->
 <br/>
@@ -99,17 +99,17 @@ If the image is not showing:
 
 ## 〈 GitHub Analytics 〉
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&ico[...] 
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-s2005&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_col[...] 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E[...] 
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=santhosh-kumar-s2005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E2E8F0&date[...] 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-s2005&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0[...] 
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=2D1B69&hide_border=true" a[...] 
+<img src="https://streak-stats.demolab.com?user=santhosh-kumar-s2005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A[...] 
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-s2005&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=2D1B69&hide_border=true" alt="C[...]" />
 
 </div>
 
@@ -127,7 +127,7 @@ Fix:
 - `row` is not a supported parameter; use `column` only.
 - Set `rank=-?` values to hide unwanted trophies; keep it clean.
 -->
-<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=14&margin-h=14&rank=-C,-B" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-s2005&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=14&margin-h=14" alt="GitHub Trophies" />
 
 </div>
 
@@ -164,11 +164,11 @@ Fix:
 
 <div align="center">
 
-[![Smart-TN-Grievance](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=Smart-TN-Grievance&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78[...] 
+[![Smart-TN-Grievance](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=Smart-TN-Grievance&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&t[...] 
 
-[![health-assistant-app](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=health-assistant-app&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color[...] 
+[![health-assistant-app](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=health-assistant-app&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78B[...] 
 
-[![leetcode](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=leetcode&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F[...] 
+[![leetcode](https://github-readme-stats.vercel.app/api/pin/?username=santhosh-kumar-s2005&repo=leetcode&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0)](h[...] 
 
 </div>
 
