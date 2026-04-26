@@ -2,11 +2,10 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily at midnight
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 permissions:
   contents: write
@@ -18,9 +17,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -30,10 +32,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
-        uses: stefanzweifel/git-auto-commit@v4
+      - name: Commit and push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Generate snake animation'
+          commit_message: "chore: generate contribution snake"
           file_pattern: dist/github-contribution-grid-snake*.svg
-          status_options: '--untracked-files=normal'
-          create_branch: false
